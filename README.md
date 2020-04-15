@@ -5,7 +5,7 @@
       -  [Multiple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Multiple%20Linear%20Regression.ipynb)   
       -  [Polynomial Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Polynomial%20Regression.ipynb)  
  **Chapter 3 :** [Classification]  
-      -  [Logistic Regression]  
+      -  [Logistic Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Logistic%20Regression.ipynb)
       -  [K-Nearest Neighbour]  
       -  [Support Vector Machine](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Support%20Vector%20Machines.ipynb)    
       -  [Naive Bayes]  
