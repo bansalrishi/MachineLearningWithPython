@@ -4,17 +4,12 @@
       -  [Simple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Simple%20Linear%20Regression.ipynb)  
       -  [Multiple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Multiple%20Linear%20Regression.ipynb)   
       -  [Polynomial Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Polynomial%20Regression.ipynb)  
-      -  [Support Vector Regression](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/02.%20Support%20Vector%20Regression.ipynb)  
-      -  [Decision Tree Regression]  
-      -  [Random Forest Regression]  
-      -  [Decision Tree Regression]  
  **Chapter 3 :** [Classification]  
       -  [Logistic Regression]  
       -  [K-Nearest Neighbour]  
-      -  [Support Vector Machine]  
-      -  [Kernel SVM]  
+      -  [Support Vector Machine](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Support%20Vector%20Machines.ipynb)    
       -  [Naive Bayes]  
-      -  [Decision Tree Classification]  
+      -  [Decision Tree](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Decision%20Tree.ipynb)  
       -  [Random Forest Classification]  
        
       
