@@ -12,6 +12,28 @@
       -  [Decision Tree](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Decision%20Tree.ipynb)  
       -  [Naive Bayes](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Naive%20Bayes.ipynb)  
       -  [Random Forest Classification]  
+**Chapter 4 :** [Clustering]
+      -  [K-Means Clustering]
+      -  [Hierarchical Clustering]      
+**Chapter 5 :** [Deep Learning/Neural Networks]
+      -  [Artificial Neural Networks]
+      -  [Convolutional Neural Networks]
+**Chapter 6 :** [Association Rule Learning]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
+**Chapter 7 :** [Natural Language Processing]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
+**Chapter 8 :** [Reinforcement Learning]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
+**Chapter 9 :** [Dimensionality Reduction]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
+**Chapter 10 :** [Model Selection Boosting]
+      -  [Naive Bayes]
+      -  [Naive Bayes]
        
       
 
