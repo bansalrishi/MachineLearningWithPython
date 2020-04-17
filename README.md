@@ -13,9 +13,9 @@
       -  [Decision Tree](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Decision%20Tree.ipynb)  
       -  [Naive Bayes](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/03.%20Naive%20Bayes.ipynb)  
       -  [Model Selection]  
-**Chapter 4 :** [UnSupervised Learning]  
-      -  [K-Means Clustering]  
-      -  [Hierarchical Clustering]  
+**Chapter 4 :** [UnSupervised Learning](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/04.%20Unsupervised%20Learning%20-%20Clustering.ipynb)  
+      -  [K-Means Clustering](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/04.%20K-Means%20Clustering.ipynb)  
+      -  [Hierarchical Clustering](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/04.%20Hierarchical%20Clustering.ipynb)  
       -  [Apriori - Association]  
       -  [Eclat - Association]  
 **Chapter 5 :** [Deep Learning/Neural Networks]  
