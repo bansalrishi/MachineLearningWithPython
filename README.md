@@ -23,9 +23,9 @@
       -  [Apriori]  
       -  [Eclat]  
 **Chapter 7 :** [Natural Language Processing]  
-      -  [Text Processing]  
-      -  [Autosummarizing Text]  
-      -  [Classify Article]  
+      -  [Text Processing](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Text%20Processing.ipynb)  
+      -  [Autosummarize Article](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Summarize%20Article.ipynb)    
+      -  [Classify Article](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Classify%20Article.ipynb)    
 **Chapter 8 :** [Reinforcement Learning]  
       -  [Upper Confidence Bound]  
       -  [Thompson Sampling]  
