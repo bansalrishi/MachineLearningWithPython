@@ -35,6 +35,8 @@
 **Chapter 10 :** [Ensemble Algorithm]  
       -  [Random Forest]  
       -  [XGBoost]  
+**Chapter 11 :** [Computer Vision]  
+      -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython/11.%20ImageFeatureExtraction.ipynb)  
        
       
 
