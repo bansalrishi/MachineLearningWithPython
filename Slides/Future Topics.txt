@@ -1,0 +1,5 @@
+1. Bias variance
+2. Cross validation
+3. Bagging n boosting
+4. Sampling techniques
+5. Grid 
