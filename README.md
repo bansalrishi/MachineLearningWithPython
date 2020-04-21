@@ -21,7 +21,7 @@
 **Chapter 5 :** [Deep Learning/Neural Networks]  
       -  [Artificial Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Artificial%20Neural%20Network.ipynb)  
       -  [Convolutional Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Convolutional%20Neural%20Network.ipynb)  
-**Chapter 6 :** [Dimensionality Reduction]  
+**Chapter 6 :** [Dimensionality Reduction](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/06.%20Dimentionality%20Reduction.ipynb)  
       -  [Principal Component Analysis(PCA)]  
       -  [Linear Discriminant Analysis(PCA)]  
 **Chapter 7 :** [Natural Language Processing]  
