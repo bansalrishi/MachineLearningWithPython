@@ -19,8 +19,8 @@
       -  [Apriori Association](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/04.%20Apriori%20Association.ipynb)  
       -  [Eclat - Association](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/04%20Eclat%20Association.ipynb)  
 **Chapter 5 :** [Deep Learning/Neural Networks]  
-      -  [Artificial Neural Networks]  
-      -  [Convolutional Neural Networks]  
+      -  [Artificial Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Artificial%20Neural%20Network.ipynb)  
+      -  [Convolutional Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Convolutional%20Neural%20Network.ipynb)  
 **Chapter 7 :** [Natural Language Processing]  
       -  [Text Processing](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Text%20Processing.ipynb)  
       -  [Autosummarize Article](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Summarize%20Article.ipynb)    
