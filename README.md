@@ -21,6 +21,9 @@
 **Chapter 5 :** [Deep Learning/Neural Networks]  
       -  [Artificial Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Artificial%20Neural%20Network.ipynb)  
       -  [Convolutional Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/05.%20Convolutional%20Neural%20Network.ipynb)  
+**Chapter 6 :** [Dimensionality Reduction]  
+      -  [Principal Component Analysis(PCA)]  
+      -  [Linear Discriminant Analysis(PCA)]  
 **Chapter 7 :** [Natural Language Processing]  
       -  [Text Processing](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Text%20Processing.ipynb)  
       -  [Autosummarize Article](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/07.%20Summarize%20Article.ipynb)    
@@ -28,14 +31,11 @@
 **Chapter 8 :** [Reinforcement Learning]  
       -  [Upper Confidence Bound]  
       -  [Thompson Sampling]  
-**Chapter 9 :** [Dimensionality Reduction]  
-      -  [Principal Component Analysis(PCA)]  
-      -  [Linear Discriminant Analysis(PCA)]  
-**Chapter 10 :** [Ensemble Algorithm]  
+**Chapter 9 :** [Ensemble Algorithm]  
       -  [Random Forest]  
       -  [XGBoost]  
-**Chapter 11 :** [Computer Vision]  
-      -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython/11.%20ImageFeatureExtraction.ipynb)  
+**Chapter 10 :** [Computer Vision]  
+      -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython/10.%20ImageFeatureExtraction.ipynb)  
        
       
 
