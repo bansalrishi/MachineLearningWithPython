@@ -31,7 +31,7 @@
       -  [Upper Confidence Bound]  
       -  [Thompson Sampling]  
 **Chapter 9 :** [Ensemble Algorithm]  
-      -  [Random Forest]  
+      -  [Random Forest](https://github.com/bansalrishi/MachineLearningWithPython/blob/master/09.%20Random%20Forest.ipynb)  
       -  [XGBoost]  
 **Chapter 10 :** [Computer Vision]  
       -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython/10.%20ImageFeatureExtraction.ipynb)  
