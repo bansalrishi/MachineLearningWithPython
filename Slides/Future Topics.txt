@@ -2,4 +2,10 @@
 2. Cross validation
 3. Bagging n boosting
 4. Sampling techniques
-5. Grid 
+5. Grid Search
+Random Forest
+gradient Descent
+Feature Selection /Feature Engineering /Exploratory data analysis
+Evaluation Metrics /Sampling Technique
+Stat Analysis Basics
+gradient boosting (decision tree)
